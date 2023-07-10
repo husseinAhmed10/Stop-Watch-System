@@ -4,3 +4,6 @@ The application uses a timer to generate an interrupt every second and updates t
 The application uses three external interrupts, INT0, INT1 and INT2, to perform different functions on the stopwatch. INT0 is used to reset the stopwatch, INT1 is used to pause the stopwatch, and INT2 is used to resume the stopwatch.
 The application uses Timer1 in CTC (Clear Timer on Compare) mode to generate interrupts every second.
 
+
+**Demo**
+![](https://github.com/husseinAhmed10/Simple-Calculator/blob/main/Stop-Watch.gif)
