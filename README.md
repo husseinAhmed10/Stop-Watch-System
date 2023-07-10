@@ -6,5 +6,5 @@ The application uses Timer1 in CTC (Clear Timer on Compare) mode to generate int
 
 
 **Demo**
-![](https://github.com/husseinAhmed10/Simple-Calculator/blob/main/Stop Watch System.gif)
+![](https://github.com/husseinAhmed10/Stop-Watch-System/blob/main/Stop%20Watch%20System.gif)
 
